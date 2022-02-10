@@ -1,0 +1,6 @@
+
+*.dll
+*.targets
+*.props
+obj/**
+bin/**
